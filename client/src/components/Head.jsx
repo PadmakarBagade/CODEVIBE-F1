@@ -1,11 +1,12 @@
 import React from "react"
 import { useNavigate, Link } from 'react-router-dom';
 import { FaSignInAlt, FaUserPlus, FaTachometerAlt } from "react-icons/fa";
+import logo from "../assets/websitelogo.png";
 const Head = () => {
   return (
     <header>
       <div>
-        <img src="./assets/websitelogo.png" alt="logo" />
+         <img src={logo} alt="logo" />
       </div>
      <div className="header-nav">
   <Link to="/Login" className="nav-link">
@@ -21,7 +22,7 @@ const Head = () => {
   </Link>
 </div>
 
-      <h1>🌺 Bloom with Jiya</h1>
+      <h1>🌸 Bloom with Jiya</h1>
       <p>Learn coding, grow your skills, earn certificates - BEWITHME!</p>
     </header>
   );

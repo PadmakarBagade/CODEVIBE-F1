@@ -12,54 +12,67 @@
 }
 /* Header Styling */
 header {
-  background: linear-gradient(135deg, var(--button-bg), var(--secondary-pink));
-  color: var(--white);
-  text-align: center;
-  padding: 2.5rem 1rem;
-  box-shadow: 0 0 25px var(--shadow-color);
-  animation: glow 3s infinite alternate;
-  border-radius: 0 0 20px 20px;
+  background: linear-gradient(135deg, #ff4d6d, #ff8fab);
+  color: white;
+  padding: 18px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Glow Animation */
-@keyframes glow {
-  from { box-shadow: 0 0 15px var(--secondary-pink); }
-  to { box-shadow: 0 0 30px var(--primary-red); }
+/* Logo */
+header img {
+  width: 70px;
+  height: auto;
 }
 
-/* Navigation Links */
+/* Navigation */
 .header-nav {
   display: flex;
-  justify-content: end;
-  gap: 15px;
-  margin-bottom: 1rem;
+  gap: 20px;
 }
 
 .nav-link {
   text-decoration: none;
-  color: var(--white);
-  padding: 8px 16px;
-  border-radius: 8px;
-  background: linear-gradient(135deg, var(--primary-red), var(--secondary-pink));
-  font-weight: 600;
-  transition: transform 0.2s, filter 0.2s;
+  color: white;
+  font-weight: 500;
+  background: rgba(255,255,255,0.15);
+  padding: 8px 14px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.3s ease;
 }
 
+/* Hover effect */
 .nav-link:hover {
-  transform: scale(1.05);
-  filter: brightness(1.1);
+  background: white;
+  color: #ff4d6d;
+  transform: translateY(-2px);
 }
 
-/* Header Titles */
+/* Icons */
+.nav-icon {
+  font-size: 14px;
+}
+
+/* Title section */
 header h1 {
-  font-size: 3rem;
-  margin: 0.5rem 0;
-  text-shadow: 2px 2px 5px var(--shadow-color);
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 28px;
+  font-weight: 700;
 }
 
 header p {
-  font-size: 1.2rem;
-  opacity: 0.9;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  opacity: 0.95;
 }
 /* Global Reset */
 *,
