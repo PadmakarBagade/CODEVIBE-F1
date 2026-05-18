@@ -41,7 +41,7 @@ const Head = () => {
     localStorage.removeItem("user");
     setUser(null);
     closeMobileMenu();
-    navigate("/");
+    navigate("/login");
     // Force a reload to reflect state in other components like Courses
     window.location.reload();
   };
