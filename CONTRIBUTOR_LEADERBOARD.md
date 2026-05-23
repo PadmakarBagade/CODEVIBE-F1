@@ -23,10 +23,10 @@ Last updated: 2026-05-23
 | 7 | [@StarDustNova-57](https://github.com/StarDustNova-57) | 41 | 3 | 2 | 3 |
 | 8 | [@advikdivekar](https://github.com/advikdivekar) | 40 | 5 | 3 | 0 |
 | 9 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 34 | 2 | 2 | 2 |
-| 10 | [@jagrati7305](https://github.com/jagrati7305) | 31 | 3 | 2 | 1 |
-| 11 | [@indresh404](https://github.com/indresh404) | 27 | 6 | 1 | 1 |
-| 12 | [@shreyamevada6](https://github.com/shreyamevada6) | 26 | 3 | 1 | 2 |
-| 13 | [@YashvardhanJani](https://github.com/YashvardhanJani) | 23 | 4 | 1 | 1 |
+| 10 | [@YashvardhanJani](https://github.com/YashvardhanJani) | 32 | 6 | 1 | 2 |
+| 11 | [@jagrati7305](https://github.com/jagrati7305) | 31 | 3 | 2 | 1 |
+| 12 | [@indresh404](https://github.com/indresh404) | 27 | 6 | 1 | 1 |
+| 13 | [@shreyamevada6](https://github.com/shreyamevada6) | 26 | 3 | 1 | 2 |
 | 14 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 22 | 1 | 1 | 2 |
 | 15 | [@ArshiBansal](https://github.com/ArshiBansal) | 21 | 3 | 1 | 1 |
 | 16 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 21 | 3 | 1 | 1 |
