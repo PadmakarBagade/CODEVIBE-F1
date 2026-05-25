@@ -34,10 +34,10 @@ Last updated: 2026-05-25
 | 18 | [@tazmeen24](https://github.com/tazmeen24) | 29 | 7 | 1 | 1 |
 | 19 | [@ArshiBansal](https://github.com/ArshiBansal) | 26 | 3 | 1 | 2 |
 | 20 | [@shreyamevada6](https://github.com/shreyamevada6) | 26 | 3 | 1 | 2 |
-| 21 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 22 | 1 | 1 | 2 |
-| 22 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 22 | 1 | 1 | 2 |
-| 23 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 21 | 3 | 1 | 1 |
-| 24 | [@codedbydollys10](https://github.com/codedbydollys10) | 20 | 5 | 1 | 0 |
+| 21 | [@codedbydollys10](https://github.com/codedbydollys10) | 25 | 5 | 1 | 1 |
+| 22 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 22 | 1 | 1 | 2 |
+| 23 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 22 | 1 | 1 | 2 |
+| 24 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 21 | 3 | 1 | 1 |
 | 25 | [@Mradul-0605](https://github.com/Mradul-0605) | 20 | 0 | 1 | 2 |
 | 26 | [@shivani11jadhav](https://github.com/shivani11jadhav) | 20 | 0 | 1 | 2 |
 | 27 | [@Samirahs08](https://github.com/Samirahs08) | 19 | 2 | 1 | 1 |
