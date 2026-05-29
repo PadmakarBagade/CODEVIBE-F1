@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `JiyaBatra/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-05-28
+Last updated: 2026-05-29
 
 ## Scoring
 
@@ -20,9 +20,9 @@ Last updated: 2026-05-28
 | 4 | [@KGFCH2](https://github.com/KGFCH2) | 87 | 1 | 1 | 15 |
 | 5 | [@pranav-cholleti](https://github.com/pranav-cholleti) | 86 | 18 | 3 | 4 |
 | 6 | [@Pcmhacker-piro](https://github.com/Pcmhacker-piro) | 85 | 0 | 2 | 13 |
-| 7 | [@DebasmitaBose0](https://github.com/DebasmitaBose0) | 75 | 0 | 0 | 15 |
-| 8 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 65 | 5 | 4 | 3 |
-| 9 | [@Mahi-19-design](https://github.com/Mahi-19-design) | 65 | 5 | 4 | 3 |
+| 7 | [@Mahi-19-design](https://github.com/Mahi-19-design) | 82 | 6 | 5 | 4 |
+| 8 | [@DebasmitaBose0](https://github.com/DebasmitaBose0) | 75 | 0 | 0 | 15 |
+| 9 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 65 | 5 | 4 | 3 |
 | 10 | [@vasheekhan](https://github.com/vasheekhan) | 60 | 5 | 3 | 4 |
 | 11 | [@StarDustNova-57](https://github.com/StarDustNova-57) | 58 | 4 | 3 | 4 |
 | 12 | [@codedbydollys10](https://github.com/codedbydollys10) | 51 | 13 | 2 | 1 |
