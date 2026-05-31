@@ -95,10 +95,6 @@ const Head = () => {
     inputRef.current?.focus();
   };
 
-  // Make sure to add FaQuestionCircle to your react-icons/fa imports at the top:
-// import { ..., FaQuestionCircle } from "react-icons/fa";
-
-// ... your existing handler functions ...
 
   return (
     <header className="site-header">
