@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `PadmakarBagade/CODEVIBE-F1` by GitHub Actions.
 
-Last updated: 2026-06-16
+Last updated: 2026-06-17
 
 ## Scoring
 
@@ -33,7 +33,7 @@ Last updated: 2026-06-16
 | 17 | [@advikdivekar](https://github.com/advikdivekar) | 10 | 5 | 0 | 0 |
 | 18 | [@anujsharma8d](https://github.com/anujsharma8d) | 10 | 5 | 0 | 0 |
 | 19 | [@ArshiBansal](https://github.com/ArshiBansal) | 10 | 5 | 0 | 0 |
-| 20 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 10 | 5 | 0 | 0 |
+| 20 | [@divyaa404](https://github.com/divyaa404) | 10 | 5 | 0 | 0 |
 | 21 | [@jagrati7305](https://github.com/jagrati7305) | 10 | 5 | 0 | 0 |
 | 22 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 10 | 5 | 0 | 0 |
 | 23 | [@vasheekhan](https://github.com/vasheekhan) | 10 | 5 | 0 | 0 |
